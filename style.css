@@ -1,0 +1,18 @@
+body {
+    background-color: #879fff;
+}
+.login_div1,.login_div2 {
+    background-color: #a5d1ac;
+    border-radius: 50px;
+    float: none;
+    padding: 10px;
+
+}
+#USUARIO1,#USUARIO2 {
+    display: inline-block;
+    border-radius: 50px;
+}
+#BOTONINICIO {
+    width: 30%;
+    border-radius: 50px;
+}
